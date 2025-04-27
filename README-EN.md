@@ -26,7 +26,7 @@ These actions are managed via the free **PushingBox** service, which received HT
 
 > ⚠️ Note: At the time, the Arduino Mega 2560 with Ethernet Shield did not natively support HTTPS connections. PushingBox was used as an intermediary to enable secure forwarding.
 
-> ⚠️ Additional note: The PushingBox service may no longer be active today.  
+> ⚠️ Additional note: The PushingBox service may no longer be active today (or not working properly).  
 > To replicate the project nowadays, it is recommended to use alternatives such as:
 > - Custom Webhooks
 > - IFTTT automations
